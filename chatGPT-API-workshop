@@ -1,1 +1,5 @@
-
+mpn i react-chat-engine
+// Creates the app
+npx create-react-app chat-application-example
+// Installs the chat engine
+cd chat-application-example
